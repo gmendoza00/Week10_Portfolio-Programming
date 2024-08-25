@@ -1,0 +1,804 @@
+Financial Report for John Doe
+==================================================
+Stocks:
+--------------------------------------------------
+Apple Inc (AAPL):
+  Quantity: 100
+  Purchase Price: $150.0
+  Current Price: $175.0
+  Dividend Yield: 0.6%
+  Earnings Per Share: $5.67
+--------------------------------------------------
+Microsoft Corp (MSFT):
+  Quantity: 50
+  Purchase Price: $200.0
+  Current Price: $250.0
+  Dividend Yield: 0.8%
+  Earnings Per Share: $8.9
+--------------------------------------------------
+Alphabet Inc (GOOG):
+  Quantity: 30
+  Purchase Price: $1200.0
+  Current Price: $1500.0
+  Dividend Yield: 0.0%
+  Earnings Per Share: $10.25
+--------------------------------------------------
+Apple Inc (AAPL):
+  Quantity: 100
+  Purchase Price: $150.0
+  Current Price: $175.0
+  Dividend Yield: 0.6%
+  Earnings Per Share: $5.67
+--------------------------------------------------
+Microsoft Corp (MSFT):
+  Quantity: 50
+  Purchase Price: $200.0
+  Current Price: $250.0
+  Dividend Yield: 0.8%
+  Earnings Per Share: $8.9
+--------------------------------------------------
+Alphabet Inc (GOOG):
+  Quantity: 30
+  Purchase Price: $1200.0
+  Current Price: $1500.0
+  Dividend Yield: 0.0%
+  Earnings Per Share: $10.25
+--------------------------------------------------
+Apple Inc (AAPL):
+  Quantity: 100
+  Purchase Price: $150.0
+  Current Price: $175.0
+  Dividend Yield: 0.6%
+  Earnings Per Share: $5.67
+--------------------------------------------------
+Microsoft Corp (MSFT):
+  Quantity: 50
+  Purchase Price: $200.0
+  Current Price: $250.0
+  Dividend Yield: 0.8%
+  Earnings Per Share: $8.9
+--------------------------------------------------
+Alphabet Inc (GOOG):
+  Quantity: 30
+  Purchase Price: $1200.0
+  Current Price: $1500.0
+  Dividend Yield: 0.0%
+  Earnings Per Share: $10.25
+--------------------------------------------------
+Apple Inc (AAPL):
+  Quantity: 100
+  Purchase Price: $150.0
+  Current Price: $175.0
+  Dividend Yield: 0.6%
+  Earnings Per Share: $5.67
+--------------------------------------------------
+Microsoft Corp (MSFT):
+  Quantity: 50
+  Purchase Price: $200.0
+  Current Price: $250.0
+  Dividend Yield: 0.8%
+  Earnings Per Share: $8.9
+--------------------------------------------------
+Alphabet Inc (GOOG):
+  Quantity: 30
+  Purchase Price: $1200.0
+  Current Price: $1500.0
+  Dividend Yield: 0.0%
+  Earnings Per Share: $10.25
+--------------------------------------------------
+Apple Inc (AAPL):
+  Quantity: 100
+  Purchase Price: $150.0
+  Current Price: $175.0
+  Dividend Yield: 0.6%
+  Earnings Per Share: $5.67
+--------------------------------------------------
+Microsoft Corp (MSFT):
+  Quantity: 50
+  Purchase Price: $200.0
+  Current Price: $250.0
+  Dividend Yield: 0.8%
+  Earnings Per Share: $8.9
+--------------------------------------------------
+Alphabet Inc (GOOG):
+  Quantity: 30
+  Purchase Price: $1200.0
+  Current Price: $1500.0
+  Dividend Yield: 0.0%
+  Earnings Per Share: $10.25
+--------------------------------------------------
+Apple Inc (AAPL):
+  Quantity: 100
+  Purchase Price: $150.0
+  Current Price: $175.0
+  Dividend Yield: 0.6%
+  Earnings Per Share: $5.67
+--------------------------------------------------
+Microsoft Corp (MSFT):
+  Quantity: 50
+  Purchase Price: $200.0
+  Current Price: $250.0
+  Dividend Yield: 0.8%
+  Earnings Per Share: $8.9
+--------------------------------------------------
+Alphabet Inc (GOOG):
+  Quantity: 30
+  Purchase Price: $1200.0
+  Current Price: $1500.0
+  Dividend Yield: 0.0%
+  Earnings Per Share: $10.25
+--------------------------------------------------
+Apple Inc (AAPL):
+  Quantity: 100
+  Purchase Price: $150.0
+  Current Price: $175.0
+  Dividend Yield: 0.6%
+  Earnings Per Share: $5.67
+--------------------------------------------------
+Microsoft Corp (MSFT):
+  Quantity: 50
+  Purchase Price: $200.0
+  Current Price: $250.0
+  Dividend Yield: 0.8%
+  Earnings Per Share: $8.9
+--------------------------------------------------
+Alphabet Inc (GOOG):
+  Quantity: 30
+  Purchase Price: $1200.0
+  Current Price: $1500.0
+  Dividend Yield: 0.0%
+  Earnings Per Share: $10.25
+--------------------------------------------------
+Apple Inc (AAPL):
+  Quantity: 100
+  Purchase Price: $150.0
+  Current Price: $175.0
+  Dividend Yield: 0.6%
+  Earnings Per Share: $5.67
+--------------------------------------------------
+Microsoft Corp (MSFT):
+  Quantity: 50
+  Purchase Price: $200.0
+  Current Price: $250.0
+  Dividend Yield: 0.8%
+  Earnings Per Share: $8.9
+--------------------------------------------------
+Alphabet Inc (GOOG):
+  Quantity: 30
+  Purchase Price: $1200.0
+  Current Price: $1500.0
+  Dividend Yield: 0.0%
+  Earnings Per Share: $10.25
+--------------------------------------------------
+Apple Inc (AAPL):
+  Quantity: 100
+  Purchase Price: $150.0
+  Current Price: $175.0
+  Dividend Yield: 0.6%
+  Earnings Per Share: $5.67
+--------------------------------------------------
+Microsoft Corp (MSFT):
+  Quantity: 50
+  Purchase Price: $200.0
+  Current Price: $250.0
+  Dividend Yield: 0.8%
+  Earnings Per Share: $8.9
+--------------------------------------------------
+Alphabet Inc (GOOG):
+  Quantity: 30
+  Purchase Price: $1200.0
+  Current Price: $1500.0
+  Dividend Yield: 0.0%
+  Earnings Per Share: $10.25
+--------------------------------------------------
+Apple Inc (AAPL):
+  Quantity: 100
+  Purchase Price: $150.0
+  Current Price: $175.0
+  Dividend Yield: 0.6%
+  Earnings Per Share: $5.67
+--------------------------------------------------
+Microsoft Corp (MSFT):
+  Quantity: 50
+  Purchase Price: $200.0
+  Current Price: $250.0
+  Dividend Yield: 0.8%
+  Earnings Per Share: $8.9
+--------------------------------------------------
+Alphabet Inc (GOOG):
+  Quantity: 30
+  Purchase Price: $1200.0
+  Current Price: $1500.0
+  Dividend Yield: 0.0%
+  Earnings Per Share: $10.25
+--------------------------------------------------
+Apple Inc (AAPL):
+  Quantity: 100
+  Purchase Price: $150.0
+  Current Price: $175.0
+  Dividend Yield: 0.6%
+  Earnings Per Share: $5.67
+--------------------------------------------------
+Microsoft Corp (MSFT):
+  Quantity: 50
+  Purchase Price: $200.0
+  Current Price: $250.0
+  Dividend Yield: 0.8%
+  Earnings Per Share: $8.9
+--------------------------------------------------
+Alphabet Inc (GOOG):
+  Quantity: 30
+  Purchase Price: $1200.0
+  Current Price: $1500.0
+  Dividend Yield: 0.0%
+  Earnings Per Share: $10.25
+--------------------------------------------------
+Apple Inc (AAPL):
+  Quantity: 100
+  Purchase Price: $150.0
+  Current Price: $175.0
+  Dividend Yield: 0.6%
+  Earnings Per Share: $5.67
+--------------------------------------------------
+Microsoft Corp (MSFT):
+  Quantity: 50
+  Purchase Price: $200.0
+  Current Price: $250.0
+  Dividend Yield: 0.8%
+  Earnings Per Share: $8.9
+--------------------------------------------------
+Alphabet Inc (GOOG):
+  Quantity: 30
+  Purchase Price: $1200.0
+  Current Price: $1500.0
+  Dividend Yield: 0.0%
+  Earnings Per Share: $10.25
+--------------------------------------------------
+Apple Inc (AAPL):
+  Quantity: 100
+  Purchase Price: $150.0
+  Current Price: $175.0
+  Dividend Yield: 0.6%
+  Earnings Per Share: $5.67
+--------------------------------------------------
+Microsoft Corp (MSFT):
+  Quantity: 50
+  Purchase Price: $200.0
+  Current Price: $250.0
+  Dividend Yield: 0.8%
+  Earnings Per Share: $8.9
+--------------------------------------------------
+Alphabet Inc (GOOG):
+  Quantity: 30
+  Purchase Price: $1200.0
+  Current Price: $1500.0
+  Dividend Yield: 0.0%
+  Earnings Per Share: $10.25
+--------------------------------------------------
+Apple Inc (AAPL):
+  Quantity: 100
+  Purchase Price: $150.0
+  Current Price: $175.0
+  Dividend Yield: 0.6%
+  Earnings Per Share: $5.67
+--------------------------------------------------
+Microsoft Corp (MSFT):
+  Quantity: 50
+  Purchase Price: $200.0
+  Current Price: $250.0
+  Dividend Yield: 0.8%
+  Earnings Per Share: $8.9
+--------------------------------------------------
+Alphabet Inc (GOOG):
+  Quantity: 30
+  Purchase Price: $1200.0
+  Current Price: $1500.0
+  Dividend Yield: 0.0%
+  Earnings Per Share: $10.25
+--------------------------------------------------
+Apple Inc (AAPL):
+  Quantity: 100
+  Purchase Price: $150.0
+  Current Price: $175.0
+  Dividend Yield: 0.6%
+  Earnings Per Share: $5.67
+--------------------------------------------------
+Microsoft Corp (MSFT):
+  Quantity: 50
+  Purchase Price: $200.0
+  Current Price: $250.0
+  Dividend Yield: 0.8%
+  Earnings Per Share: $8.9
+--------------------------------------------------
+Alphabet Inc (GOOG):
+  Quantity: 30
+  Purchase Price: $1200.0
+  Current Price: $1500.0
+  Dividend Yield: 0.0%
+  Earnings Per Share: $10.25
+--------------------------------------------------
+Apple Inc (AAPL):
+  Quantity: 100
+  Purchase Price: $150.0
+  Current Price: $175.0
+  Dividend Yield: 0.6%
+  Earnings Per Share: $5.67
+--------------------------------------------------
+Microsoft Corp (MSFT):
+  Quantity: 50
+  Purchase Price: $200.0
+  Current Price: $250.0
+  Dividend Yield: 0.8%
+  Earnings Per Share: $8.9
+--------------------------------------------------
+Alphabet Inc (GOOG):
+  Quantity: 30
+  Purchase Price: $1200.0
+  Current Price: $1500.0
+  Dividend Yield: 0.0%
+  Earnings Per Share: $10.25
+--------------------------------------------------
+Apple Inc (AAPL):
+  Quantity: 100
+  Purchase Price: $150.0
+  Current Price: $175.0
+  Dividend Yield: 0.6%
+  Earnings Per Share: $5.67
+--------------------------------------------------
+Microsoft Corp (MSFT):
+  Quantity: 50
+  Purchase Price: $200.0
+  Current Price: $250.0
+  Dividend Yield: 0.8%
+  Earnings Per Share: $8.9
+--------------------------------------------------
+Alphabet Inc (GOOG):
+  Quantity: 30
+  Purchase Price: $1200.0
+  Current Price: $1500.0
+  Dividend Yield: 0.0%
+  Earnings Per Share: $10.25
+--------------------------------------------------
+Apple Inc (AAPL):
+  Quantity: 100
+  Purchase Price: $150.0
+  Current Price: $175.0
+  Dividend Yield: 0.6%
+  Earnings Per Share: $5.67
+--------------------------------------------------
+Microsoft Corp (MSFT):
+  Quantity: 50
+  Purchase Price: $200.0
+  Current Price: $250.0
+  Dividend Yield: 0.8%
+  Earnings Per Share: $8.9
+--------------------------------------------------
+Alphabet Inc (GOOG):
+  Quantity: 30
+  Purchase Price: $1200.0
+  Current Price: $1500.0
+  Dividend Yield: 0.0%
+  Earnings Per Share: $10.25
+--------------------------------------------------
+Apple Inc (AAPL):
+  Quantity: 100
+  Purchase Price: $150.0
+  Current Price: $175.0
+  Dividend Yield: 0.6%
+  Earnings Per Share: $5.67
+--------------------------------------------------
+Microsoft Corp (MSFT):
+  Quantity: 50
+  Purchase Price: $200.0
+  Current Price: $250.0
+  Dividend Yield: 0.8%
+  Earnings Per Share: $8.9
+--------------------------------------------------
+Alphabet Inc (GOOG):
+  Quantity: 30
+  Purchase Price: $1200.0
+  Current Price: $1500.0
+  Dividend Yield: 0.0%
+  Earnings Per Share: $10.25
+--------------------------------------------------
+Bonds:
+--------------------------------------------------
+AT&T Inc (T):
+  Quantity: 200
+  Purchase Price: $100.0
+  Current Price: $102.5
+  Coupon Rate: 3.25%
+  Maturity Date: 2027-06-30
+--------------------------------------------------
+General Electric (GE):
+  Quantity: 150
+  Purchase Price: $95.0
+  Current Price: $97.0
+  Coupon Rate: 4.0%
+  Maturity Date: 2025-12-31
+--------------------------------------------------
+JPMorgan Chase (JPM):
+  Quantity: 100
+  Purchase Price: $105.0
+  Current Price: $110.0
+  Coupon Rate: 3.75%
+  Maturity Date: 2029-03-15
+--------------------------------------------------
+AT&T Inc (T):
+  Quantity: 200
+  Purchase Price: $100.0
+  Current Price: $102.5
+  Coupon Rate: 3.25%
+  Maturity Date: 2027-06-30
+--------------------------------------------------
+General Electric (GE):
+  Quantity: 150
+  Purchase Price: $95.0
+  Current Price: $97.0
+  Coupon Rate: 4.0%
+  Maturity Date: 2025-12-31
+--------------------------------------------------
+JPMorgan Chase (JPM):
+  Quantity: 100
+  Purchase Price: $105.0
+  Current Price: $110.0
+  Coupon Rate: 3.75%
+  Maturity Date: 2029-03-15
+--------------------------------------------------
+AT&T Inc (T):
+  Quantity: 200
+  Purchase Price: $100.0
+  Current Price: $102.5
+  Coupon Rate: 3.25%
+  Maturity Date: 2027-06-30
+--------------------------------------------------
+General Electric (GE):
+  Quantity: 150
+  Purchase Price: $95.0
+  Current Price: $97.0
+  Coupon Rate: 4.0%
+  Maturity Date: 2025-12-31
+--------------------------------------------------
+JPMorgan Chase (JPM):
+  Quantity: 100
+  Purchase Price: $105.0
+  Current Price: $110.0
+  Coupon Rate: 3.75%
+  Maturity Date: 2029-03-15
+--------------------------------------------------
+AT&T Inc (T):
+  Quantity: 200
+  Purchase Price: $100.0
+  Current Price: $102.5
+  Coupon Rate: 3.25%
+  Maturity Date: 2027-06-30
+--------------------------------------------------
+General Electric (GE):
+  Quantity: 150
+  Purchase Price: $95.0
+  Current Price: $97.0
+  Coupon Rate: 4.0%
+  Maturity Date: 2025-12-31
+--------------------------------------------------
+JPMorgan Chase (JPM):
+  Quantity: 100
+  Purchase Price: $105.0
+  Current Price: $110.0
+  Coupon Rate: 3.75%
+  Maturity Date: 2029-03-15
+--------------------------------------------------
+AT&T Inc (T):
+  Quantity: 200
+  Purchase Price: $100.0
+  Current Price: $102.5
+  Coupon Rate: 3.25%
+  Maturity Date: 2027-06-30
+--------------------------------------------------
+General Electric (GE):
+  Quantity: 150
+  Purchase Price: $95.0
+  Current Price: $97.0
+  Coupon Rate: 4.0%
+  Maturity Date: 2025-12-31
+--------------------------------------------------
+JPMorgan Chase (JPM):
+  Quantity: 100
+  Purchase Price: $105.0
+  Current Price: $110.0
+  Coupon Rate: 3.75%
+  Maturity Date: 2029-03-15
+--------------------------------------------------
+AT&T Inc (T):
+  Quantity: 200
+  Purchase Price: $100.0
+  Current Price: $102.5
+  Coupon Rate: 3.25%
+  Maturity Date: 2027-06-30
+--------------------------------------------------
+General Electric (GE):
+  Quantity: 150
+  Purchase Price: $95.0
+  Current Price: $97.0
+  Coupon Rate: 4.0%
+  Maturity Date: 2025-12-31
+--------------------------------------------------
+JPMorgan Chase (JPM):
+  Quantity: 100
+  Purchase Price: $105.0
+  Current Price: $110.0
+  Coupon Rate: 3.75%
+  Maturity Date: 2029-03-15
+--------------------------------------------------
+AT&T Inc (T):
+  Quantity: 200
+  Purchase Price: $100.0
+  Current Price: $102.5
+  Coupon Rate: 3.25%
+  Maturity Date: 2027-06-30
+--------------------------------------------------
+General Electric (GE):
+  Quantity: 150
+  Purchase Price: $95.0
+  Current Price: $97.0
+  Coupon Rate: 4.0%
+  Maturity Date: 2025-12-31
+--------------------------------------------------
+JPMorgan Chase (JPM):
+  Quantity: 100
+  Purchase Price: $105.0
+  Current Price: $110.0
+  Coupon Rate: 3.75%
+  Maturity Date: 2029-03-15
+--------------------------------------------------
+AT&T Inc (T):
+  Quantity: 200
+  Purchase Price: $100.0
+  Current Price: $102.5
+  Coupon Rate: 3.25%
+  Maturity Date: 2027-06-30
+--------------------------------------------------
+General Electric (GE):
+  Quantity: 150
+  Purchase Price: $95.0
+  Current Price: $97.0
+  Coupon Rate: 4.0%
+  Maturity Date: 2025-12-31
+--------------------------------------------------
+JPMorgan Chase (JPM):
+  Quantity: 100
+  Purchase Price: $105.0
+  Current Price: $110.0
+  Coupon Rate: 3.75%
+  Maturity Date: 2029-03-15
+--------------------------------------------------
+AT&T Inc (T):
+  Quantity: 200
+  Purchase Price: $100.0
+  Current Price: $102.5
+  Coupon Rate: 3.25%
+  Maturity Date: 2027-06-30
+--------------------------------------------------
+General Electric (GE):
+  Quantity: 150
+  Purchase Price: $95.0
+  Current Price: $97.0
+  Coupon Rate: 4.0%
+  Maturity Date: 2025-12-31
+--------------------------------------------------
+JPMorgan Chase (JPM):
+  Quantity: 100
+  Purchase Price: $105.0
+  Current Price: $110.0
+  Coupon Rate: 3.75%
+  Maturity Date: 2029-03-15
+--------------------------------------------------
+AT&T Inc (T):
+  Quantity: 200
+  Purchase Price: $100.0
+  Current Price: $102.5
+  Coupon Rate: 3.25%
+  Maturity Date: 2027-06-30
+--------------------------------------------------
+General Electric (GE):
+  Quantity: 150
+  Purchase Price: $95.0
+  Current Price: $97.0
+  Coupon Rate: 4.0%
+  Maturity Date: 2025-12-31
+--------------------------------------------------
+JPMorgan Chase (JPM):
+  Quantity: 100
+  Purchase Price: $105.0
+  Current Price: $110.0
+  Coupon Rate: 3.75%
+  Maturity Date: 2029-03-15
+--------------------------------------------------
+AT&T Inc (T):
+  Quantity: 200
+  Purchase Price: $100.0
+  Current Price: $102.5
+  Coupon Rate: 3.25%
+  Maturity Date: 2027-06-30
+--------------------------------------------------
+General Electric (GE):
+  Quantity: 150
+  Purchase Price: $95.0
+  Current Price: $97.0
+  Coupon Rate: 4.0%
+  Maturity Date: 2025-12-31
+--------------------------------------------------
+JPMorgan Chase (JPM):
+  Quantity: 100
+  Purchase Price: $105.0
+  Current Price: $110.0
+  Coupon Rate: 3.75%
+  Maturity Date: 2029-03-15
+--------------------------------------------------
+AT&T Inc (T):
+  Quantity: 200
+  Purchase Price: $100.0
+  Current Price: $102.5
+  Coupon Rate: 3.25%
+  Maturity Date: 2027-06-30
+--------------------------------------------------
+General Electric (GE):
+  Quantity: 150
+  Purchase Price: $95.0
+  Current Price: $97.0
+  Coupon Rate: 4.0%
+  Maturity Date: 2025-12-31
+--------------------------------------------------
+JPMorgan Chase (JPM):
+  Quantity: 100
+  Purchase Price: $105.0
+  Current Price: $110.0
+  Coupon Rate: 3.75%
+  Maturity Date: 2029-03-15
+--------------------------------------------------
+AT&T Inc (T):
+  Quantity: 200
+  Purchase Price: $100.0
+  Current Price: $102.5
+  Coupon Rate: 3.25%
+  Maturity Date: 2027-06-30
+--------------------------------------------------
+General Electric (GE):
+  Quantity: 150
+  Purchase Price: $95.0
+  Current Price: $97.0
+  Coupon Rate: 4.0%
+  Maturity Date: 2025-12-31
+--------------------------------------------------
+JPMorgan Chase (JPM):
+  Quantity: 100
+  Purchase Price: $105.0
+  Current Price: $110.0
+  Coupon Rate: 3.75%
+  Maturity Date: 2029-03-15
+--------------------------------------------------
+AT&T Inc (T):
+  Quantity: 200
+  Purchase Price: $100.0
+  Current Price: $102.5
+  Coupon Rate: 3.25%
+  Maturity Date: 2027-06-30
+--------------------------------------------------
+General Electric (GE):
+  Quantity: 150
+  Purchase Price: $95.0
+  Current Price: $97.0
+  Coupon Rate: 4.0%
+  Maturity Date: 2025-12-31
+--------------------------------------------------
+JPMorgan Chase (JPM):
+  Quantity: 100
+  Purchase Price: $105.0
+  Current Price: $110.0
+  Coupon Rate: 3.75%
+  Maturity Date: 2029-03-15
+--------------------------------------------------
+AT&T Inc (T):
+  Quantity: 200
+  Purchase Price: $100.0
+  Current Price: $102.5
+  Coupon Rate: 3.25%
+  Maturity Date: 2027-06-30
+--------------------------------------------------
+General Electric (GE):
+  Quantity: 150
+  Purchase Price: $95.0
+  Current Price: $97.0
+  Coupon Rate: 4.0%
+  Maturity Date: 2025-12-31
+--------------------------------------------------
+JPMorgan Chase (JPM):
+  Quantity: 100
+  Purchase Price: $105.0
+  Current Price: $110.0
+  Coupon Rate: 3.75%
+  Maturity Date: 2029-03-15
+--------------------------------------------------
+AT&T Inc (T):
+  Quantity: 200
+  Purchase Price: $100.0
+  Current Price: $102.5
+  Coupon Rate: 3.25%
+  Maturity Date: 2027-06-30
+--------------------------------------------------
+General Electric (GE):
+  Quantity: 150
+  Purchase Price: $95.0
+  Current Price: $97.0
+  Coupon Rate: 4.0%
+  Maturity Date: 2025-12-31
+--------------------------------------------------
+JPMorgan Chase (JPM):
+  Quantity: 100
+  Purchase Price: $105.0
+  Current Price: $110.0
+  Coupon Rate: 3.75%
+  Maturity Date: 2029-03-15
+--------------------------------------------------
+AT&T Inc (T):
+  Quantity: 200
+  Purchase Price: $100.0
+  Current Price: $102.5
+  Coupon Rate: 3.25%
+  Maturity Date: 2027-06-30
+--------------------------------------------------
+General Electric (GE):
+  Quantity: 150
+  Purchase Price: $95.0
+  Current Price: $97.0
+  Coupon Rate: 4.0%
+  Maturity Date: 2025-12-31
+--------------------------------------------------
+JPMorgan Chase (JPM):
+  Quantity: 100
+  Purchase Price: $105.0
+  Current Price: $110.0
+  Coupon Rate: 3.75%
+  Maturity Date: 2029-03-15
+--------------------------------------------------
+AT&T Inc (T):
+  Quantity: 200
+  Purchase Price: $100.0
+  Current Price: $102.5
+  Coupon Rate: 3.25%
+  Maturity Date: 2027-06-30
+--------------------------------------------------
+General Electric (GE):
+  Quantity: 150
+  Purchase Price: $95.0
+  Current Price: $97.0
+  Coupon Rate: 4.0%
+  Maturity Date: 2025-12-31
+--------------------------------------------------
+JPMorgan Chase (JPM):
+  Quantity: 100
+  Purchase Price: $105.0
+  Current Price: $110.0
+  Coupon Rate: 3.75%
+  Maturity Date: 2029-03-15
+--------------------------------------------------
+AT&T Inc (T):
+  Quantity: 200
+  Purchase Price: $100.0
+  Current Price: $102.5
+  Coupon Rate: 3.25%
+  Maturity Date: 2027-06-30
+--------------------------------------------------
+General Electric (GE):
+  Quantity: 150
+  Purchase Price: $95.0
+  Current Price: $97.0
+  Coupon Rate: 4.0%
+  Maturity Date: 2025-12-31
+--------------------------------------------------
+JPMorgan Chase (JPM):
+  Quantity: 100
+  Purchase Price: $105.0
+  Current Price: $110.0
+  Coupon Rate: 3.75%
+  Maturity Date: 2029-03-15
+--------------------------------------------------
